@@ -11,7 +11,7 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "歌手知识图谱平台",
+  name: "智能流程协同工作平台",
   description: "Draw diagram with nature language.",
   mainNav: [
     // {
@@ -21,6 +21,6 @@ export const siteConfig: SiteConfig = {
   ],
   links: {
     twitter: "https://twitter.com/fraserxu",
-    github: "https://github.com/fraserxu/diagram-gpt",
+    github: "https://gi11thub.com/fraserxu/diagram-gpt",
   },
 };
